@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "出現",
+  "base_artist": "john",
+  "createdAt": "2026-02-08T03:53:39.597360Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "出現",
+      "artist": "John",
+      "has_synced": false,
+      "path": "select/pl_01_出現_John.txt"
+    }
+  ]
+}
